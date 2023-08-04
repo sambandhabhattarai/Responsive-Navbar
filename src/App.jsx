@@ -4,6 +4,7 @@ import Home from './Components/Home'
 import Services from './Components/Services'
 import About from './Components/About'
 import Contact from './Components/Contact'
+import Encrypt from './Components/Encrpt'
 import React from 'react'
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
     <Services/>
     <About/>
     <Contact/>
+    <Encrypt/>
     </>
     
   )

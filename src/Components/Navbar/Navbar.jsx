@@ -28,6 +28,7 @@ const Navbar = () => {
                 <li className='navItem'><a href="#service" className="navLink">Services</a></li>
                 <li className='navItem'><a href="#about" className="navLink">About</a></li>
                 <li className='navItem'><a href="#contact" className="navLink">Contact</a></li>
+                <li className='navItem'><a href="#encrypt" className="navLink">Encrypt</a></li>
             </ul>
             <div className="closeNavbarIcon" onClick={removeMenu}>
                 <AiFillCloseCircle className='icon'/>
